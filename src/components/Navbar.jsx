@@ -160,7 +160,7 @@ const Navbar = () => {
       {mobileDrawerOpen && (
         <div className="bg-gray-700 lg:hidden">
           <ul className="flex flex-col items-center py-6 space-y-4">
-            {["home", "about", "research", "publications", "cv"].map((key) => (
+            {["about", "research", "publications", "cv"].map((key) => (
               <li key={key}>
                 <Link
                   to={`/${key}`}
