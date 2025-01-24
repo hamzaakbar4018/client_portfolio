@@ -261,7 +261,7 @@ const resources = {
           details: [
             {
               degree: "Doctorat en droit (mention très bien)",
-              university: "Université Carlos III de Madrid (Espagne)",
+              university: "Universidad Carlos III de Madrid (Espagne)",
             },
             {
               degree: "Master de droit (LL.M.) en plaidoirie",
@@ -356,7 +356,7 @@ const resources = {
           details: [
             {
               degree: "Dottorato in Giurisprudenza (cum laude)",
-              university: "Università Carlos III di Madrid (Spagna)",
+              university: "Universidad Carlos III di Madrid (Spagna)",
             },
             {
               degree: "Master in Giurisprudenza (LL.M.) in Difesa Processuale",
